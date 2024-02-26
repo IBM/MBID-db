@@ -1,4 +1,4 @@
-### XLS
+### MBID-db: Database for fusion of biomedical imaging studies
 
 ### Basic commands and miscellaneous information
 * Script `run.py` will start Flask API and create DB. In order to create all tables, is necessary to run this command. `python run.py`
